@@ -15,7 +15,6 @@ Um CRUD Lista de Contatos criado como projeto pessoal, que tem a finalidade de m
 
 
 ## Práticas Abordadas
-- SOLID , DRY, YAGNI,KISS
 - API REST
 - Consulta com Banco de Dados Spring DATA JPA
 - Tratamento de Erros e Exceção 
